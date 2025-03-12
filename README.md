@@ -4,7 +4,7 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 ## HPC Containers Tutorial Session
 
-<img src="fig/pawsey.png" width="200"
+<img src="fig/pawsey.png" width="200">
 
 ## Details
 
