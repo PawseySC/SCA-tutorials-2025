@@ -2,11 +2,9 @@
 
 View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutorials/).
 
-
 ## HPC Containers Tutorial Session
 
-<img src="fig/ecp.jpg" width="200"><img src="fig/pawsey.png" width="200"><img src="fig/nvidia.png" width="200">
-
+<img src="fig/pawsey.png" width="200"
 
 ## Details
 
@@ -14,8 +12,7 @@ Full-day Tutorial Session
 
 Venue: Supercomputing Conference Asia (SC 25)
 
-
-Location: Atlanta, GA, USA
+Location: Singapore, SIN
 
 Link: [SC 2025 Tutorial Details](https://pawseysc.github.io/SCA-tutorials-2025/index.html)
 
