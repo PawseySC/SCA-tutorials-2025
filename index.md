@@ -4,19 +4,16 @@ root: .
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-
-<img src="{{ page.root }}/fig/ecp.jpg" alt="ECP Logo" width="250">
 <img src="{{ page.root }}/fig/pawsey.png" alt="Pawsey Logo" width="250">
-<img src="{{ page.root }}/fig/nvidia.png" alt="Nvidia Logo" width="250">
 
 
-Containers Tutorial Session @ Supercomputing Conference 2024 (SC24)
+Containers Tutorial Session @ Supercomputing Conference Asia 2025 (SCA25)
 
-Date: Monday, 18 November 2024 8:30am - 5pm EST
+Date: Thursday, 13 March 2025 9:30am - 3:30pm 
 
-Location: Altanta, GA, USA
+Location: Singapore, SIN
 
-Link: [SC 2024 Tutorial Details](https://sc24.conference-program.com/presentation/?id=tut110&sess=sess405)
+Link: [SCA 2025 Tutorial Details](https://pawseysc.github.io/SCA-tutorials-2025/index.html)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
@@ -31,9 +28,7 @@ Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Sof
 
 > ## Questions
 > 
-> You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/1zrWRGeDEbokQq03hAHxZzXpNzBSp4YSKJhHiNtjSe1Y/edit?usp=sharing).
+> You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/1cxha1gGKXVVUpBlVv0lMPd2ajq97s7ILZEKRTDyo1YQ/edit?tab=t.0#heading=h.kk3buazafpza).
 > Please append your question below the others in the document.
 > 
-> We have also created a Slack Team for this.  The invitation link is [here](https://join.slack.com/t/hpc-containers/shared_invite/enQtODI3NzY1NDU4OTk5LTUxOTgyOWJmYjIwOWI5YWU2MzBhZDI3Zjc1YmZmMjAxZjgzYzk4ZWEwNmFlNzlkOWI0MGNlZDNlMTBhYTBlOWY).
-{: .callout}
 
