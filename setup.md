@@ -16,23 +16,13 @@ In this way you will be able to follow the online materials and to login to a fa
 
 ### Training accounts
 
-We will be providing training user accounts to both pre-configured EC2 instances.
+We will be providing training user accounts to pre-configured EC2 instances.
 
 <div style="text-align:center"><img src="fig/AWS_logo.png" width="250"></div>
 
 This tutorial is supported by the Amazon AWS Machine Learning Research Awards. EC2 images and temporary login credentials will be distributed onsite at the tutorial. Here are <A HREF="https://drive.google.com/file/d/14l6LEfuXyH-E4rx2enMAaXrdRSZ-R1Fr/view?usp=share_link">setup slides</A>. 
 
 After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to run through the tutorial again. We recommend you use your own EC2 key and change the password.
-
-US-West-Oregon: ami-0fe12765123c6a840
-
-
-### NERSC Training Accounts (optional)
-
-In addition to the AWS instances, you can also try running some of the Shifter-based excercises on NERSC's Cori system, a Cray XC40 system.  To sign-up for a NERSC tutorial account, visit
-[https://iris.nersc.gov/train](https://iris.nersc.gov/train) and fill out the form.  The training code will be provided during the tutorial.  Please note that, due to security
-restrictions, access may be limited but all of the excercises can be done on the AWS instances.
-
 
 ### Materials repository
 
@@ -41,7 +31,7 @@ To run the examples yourself, you can download the materials with:
 ```bash
 cd ~
 git clone https://github.com/supercontainers/sc-tutorials.git
-cd sc-tutorials/exercies
+cd sc-tutorials/exercises
 ```
 
 
